@@ -125,7 +125,6 @@ name,source,gender,wikidata,type
 "Place Gatien Almoric",,,,way
 "Place Général Digonnet",,,,way
 "Place Jullien",,,,way
-"Place Ulysse Bouchet",,,,way
 "Place de la Liberté",,,,way
 "Place des Moulins",,,,way
 "Place des Tilleuls",,,,way
@@ -140,6 +139,7 @@ name,source,gender,wikidata,type
 "Quai Pied Gai",,,,way
 "Quai Soubeyran",,,,way
 "Quai de Verdun",,,,way
+"Quai des marronniers",,,,way
 "Quartier des Taillas",,,,way
 "Rostagnon Sud",,,,way
 "Route de Chomeane Ouest",,,,way
@@ -266,6 +266,7 @@ name,source,gender,wikidata,type
 "Rue des Religieuses Trinitaires",,,,way
 "Rue des Roses",,,,way
 "Rue des Teinturiers",,,,way
+"Rue des Vieilles Prisons",,,,way
 "Rue du 19 Mars 1962",,,,way
 "Rue du 8 Mai 1945",,,,relation
 "Rue du Clocher",,,,way
