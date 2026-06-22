@@ -33,6 +33,7 @@ return [
             '78260451' => 'M', // Chemin du Grand Saint Jean
             '228908519' => 'M', // Chemin du Petit Saint Jean
             '191214277' => 'M', // Chemin Saint Vincent
+            '1531340470' => 'M' // Esplanade Edmond Dupraz
             '228979754' => 'M', // Impasse Adrien Fayolle
             '1531195277' => 'M', // Impasse Andre Reynier
             '386767012' => 'M', // Impasse Saint François
@@ -40,6 +41,7 @@ return [
             '37544811' => 'M', // Montée Saint Antoine
             '439155551' => 'M', // Place Albert Argod
             '36398066' => 'M', // Place Antoine Bouvier
+            '333837545' => 'M', // Place Jullien
             '36398077' => 'M', // Place Ulysse Bouchet
             '1456208578' => 'M', // Quai André Reynier
             '11826176' => 'M', // Quai Henri Latune
@@ -100,6 +102,7 @@ return [
             '308144845' => 'M', // Rue Paul Arène
             '557815266' => 'M', // Rue Paul Goy
             '8021753' => 'M', // Rue Paul Pons
+            '228979759' => 'M', // Rue Peysson
             '37544779' => 'M', // Rue Pierre Laurent Daly
             '37545196' => 'M', // Rue Roch Grivel
             '131471428' => 'M', // Rue Rochefort
