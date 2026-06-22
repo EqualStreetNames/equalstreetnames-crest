@@ -47,7 +47,6 @@ return [
             '11826176' => 'M', // Quai Henri Latune
             '78260440' => 'M', // Rue Albert Fié
             '308144833' => 'M', // Rue André Mailhet
-            '727163454' => 'M', // Rue Charabot
             '228908539' => 'M', // Rue Colonel Odon
             '8021705' => 'M', // Rue David Rigaud
             '228908526' => 'M', // Rue des Docteurs Louis et Frédéric Thiers
