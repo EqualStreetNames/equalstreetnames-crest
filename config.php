@@ -33,7 +33,7 @@ return [
             '78260451' => 'M', // Chemin du Grand Saint Jean
             '228908519' => 'M', // Chemin du Petit Saint Jean
             '191214277' => 'M', // Chemin Saint Vincent
-            '1531340470' => 'M' // Esplanade Edmond Dupraz
+            '1531340470' => 'M', // Esplanade Edmond Dupraz
             '228979754' => 'M', // Impasse Adrien Fayolle
             '1531195277' => 'M', // Impasse Andre Reynier
             '386767012' => 'M', // Impasse Saint François
