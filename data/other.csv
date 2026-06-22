@@ -1,26 +1,15 @@
 name,source,gender,wikidata,type
-"Allée Félix Rosier",,,,way
 "Allée Masse Panier",,,,way
-"Allée Maurice Utrillo",,,,way
-"Allée Montesquieu",,,,way
 "Allée Paul Cézanne",,,,way
-"Allée Vanber",,,,way
 "Allée de la Collinette",,,,way
 "Allée des Blaches",,,,way
 "Allée des Cerisiers",,,,way
-"Avenue Adrien Fayolle",,,,way
-"Avenue Agirond",,,,way
-"Avenue Charles Armorin",,,,way
-"Avenue Georges Clemenceau",,,,way
-"Avenue Henri Grand",,,,way
 "Avenue Jean Rabot",,,,way
 "Avenue des 3 Becs",,,,way
 "Avenue des Arbres Écrits",,,,way
-"Avenue du Docteur Ricateau",,,,way
 "Avenue du Village en Bois",,,,way
 "Boulevard du 6 Juin 1944",,,,way
 "Château Gaillard",,,,way
-"Chemin Saint-Vincent",,,,way
 "Chemin d'Arbelet",,,,way
 "Chemin de Beauchouse",,,,way
 "Chemin de Chanterenard",,,,way
@@ -37,9 +26,7 @@ name,source,gender,wikidata,type
 "Chemin de Parquet",,,,way
 "Chemin de Peyrambert",,,,way
 "Chemin de Pierrefeu",,,,way
-"Chemin de Revesz-Long",,,,way
 "Chemin de Rostagnon",,,,way
-"Chemin de Saint-Ferréol",,,,way
 "Chemin de Saleine",,,,way
 "Chemin de Serre-Rond",,,,way
 "Chemin de Sylvestre",,,,way
@@ -69,24 +56,17 @@ name,source,gender,wikidata,type
 "Chemin des Sétérées",,,,way
 "Chemin des Taillas",,,,way
 "Chemin du Donjon",,,,way
-"Chemin du Grand Saint-Jean",,,,way
 "Chemin du Grand-Saint-Jean",,,,way
 "Chemin du Haut Divajeu",,,,way
 "Chemin du Haut Mazorel",,,,way
-"Chemin du Petit Saint-Jean",,,,way
 "Chemin du Plateau",,,,way
 "Chemin du Village en Bois",,,,way
 "Chemins des Basses Sétérées",,,,way
 "Chemins des Moyennes Sétérées",,,,way
 "Cours de Joubernon",,,,way
 "Escalier des Cordeliers",,,,way
-"Impasse Adrien Fayolle",,,,way
 "Impasse Chabrière",,,,way
-"Impasse Hector Berlioz",,,,way
-"Impasse Jules Védrines",,,,way
 "Impasse Martelle",,,,way
-"Impasse Rochefort",,,,way
-"Impasse Saint-François",,,,way
 "Impasse de Berend",,,,way
 "Impasse de Peyrambert",,,,way
 "Impasse de Pierrefeu",,,,way
@@ -106,36 +86,22 @@ name,source,gender,wikidata,type
 "La Vélo Drôme",,,,way
 "Le Clos Saint-Antoine",,,,way
 "Les Chanaux",,,,way
-"Les Jardins de Saint-Louis",,,,way
-"Lotissement Les Frênes de la Lozières",,,,way
-"Montée Saint-Antoine",,,,way
-"Montée Saint-Catherine",,,,way
 "Montée de Fontalis",,,,way
 "Montée de Guilamont",,,,way
-"Montée de Guillaumont",,,,way
 "Montée de Peyrambert",,,,way
 "Montée de la Barbéyère",,,,way
 "Montée de la Chevalerie",,,,way
 "Montée des Cordeliers",,,,way
 "Montée des Gardettes",,,,way
 "Montée des Pénitents",,,,way
-"Place Antoine Bouvier",,,,way
 "Place Docteur Rozier",,,,way
-"Place Ferdinand Marie",,,,way
-"Place Gatien Almoric",,,,way
-"Place Général Digonnet",,,,way
-"Place Jullien",,,,way
 "Place de la Liberté",,,,way
 "Place des Moulins",,,,way
 "Place des Tilleuls",,,,way
-"Place du Général de Gaulle",,,,way
 "Place du Temple",,,,way
 "Pont Frédéric Mistral",,,,way
 "Pont en bois",,,,way
-"Quai André Reynier",,,,way
 "Quai Berangier de la Blache",,,,way
-"Quai Henri Latune",,,,way
-"Quai Maurice Faure",,,,way
 "Quai Pied Gai",,,,way
 "Quai Soubeyran",,,,way
 "Quai de Verdun",,,,way
@@ -154,81 +120,18 @@ name,source,gender,wikidata,type
 "Route de Saraillon",,,,way
 "Route des Sétérées",,,,way
 "Routes des Blaches",,,,way
-"Rue Albert Camus",,,,way
-"Rue Albert Fié",,,,way
-"Rue Alcide Maurin",,,,way
-"Rue Alphonse Daudet",,,,way
-"Rue André Hérold",,,,way
-"Rue André Mailhet",,,,way
-"Rue Antoine de Pluvinel",,,,way
-"Rue Archinard",,,,way
-"Rue Aristide Dumont",,,,way
 "Rue Carcavel",,,,way
 "Rue Chantebise",,,,way
-"Rue Charabot",,,,way
-"Rue Charles Péguy",,,,way
-"Rue Chateaubriand",,,,way
-"Rue Colonel Audon",,,,way
 "Rue Côte Chaude",,,,way
 "Rue Courre Commère",,,,way
 "Rue Crévecol",,,,way
-"Rue Curnier",,,,way
-"Rue Daly",,,,way
-"Rue David Rigaud",,,,way
-"Rue Driss Chraïbi",,,,way
-"Rue Édouard Branly",,,,way
-"Rue Émile Loubet",,,,way
-"Rue Eugène Arnaud",,,,way
-"Rue Félix Perrier",,,,way
-"Rue Général Berlier",,,,way
-"Rue Général Koenig",,,,way
-"Rue Georges Bovet",,,,way
-"Rue Georges Guynemer",,,,way
 "Rue Grenette",,,,way
-"Rue Gustave André",,,,way
-"Rue Gustave Bermond",,,,way
-"Rue Gustave Eiffel",,,,way
-"Rue Henri Barbusse",,,,way
-"Rue Jacques Prévert",,,,way
-"Rue Jean 23",,,,way
-"Rue Jean Bouin",,,,way
-"Rue Jean Cocteau",,,,way
-"Rue Jean Giono",,,,way
-"Rue Jean Jaurès",,,,way
-"Rue Jean Moulin",,,,way
-"Rue Jean Rousset",,,,way
-"Rue Jean-Jacques Rousseau",,,,way
-"Rue Joseph Grivel",,,,way
-"Rue Joseph Richard",,,,way
-"Rue Laurent Mognat",,,,way
-"Rue Léon Blum",,,,way
-"Rue Léopold Bouvat",,,,way
-"Rue Louis Pasteur",,,,way
-"Rue Marcel Pagnol",,,,way
 "Rue Martelle",,,,way
-"Rue Maurice Barral",,,,way
-"Rue Maurice Chabrières",,,,way
-"Rue Maurice Long",,,,way
-"Rue Mettetal",,,,way
-"Rue Molière",,,,way
 "Rue Neuve Moutiers",,,,way
 "Rue Paramente",,,,way
-"Rue Pasteur Marc Boegner",,,,way
-"Rue Paul Arène",,,,way
-"Rue Paul Goy",,,,way
-"Rue Paul Pons",,,,way
 "Rue Peyrière",,,,way
 "Rue Porte-Aiguière",,,,way
-"Rue Roch Grivel",,,,way
-"Rue Rochefort",,,,way
 "Rue Roderie",,,,way
-"Rue Sadi Carnot",,,,way
-"Rue Saint-François",,,,way
-"Rue Victor Hugo",,,,way
-"Rue Victor Schoelcher",,,,way
-"Rue Vincent d'Indy",,,,way
-"Rue Voltaire",,,,way
-"Rue William Booth",,,,way
 "Rue de Cromer",,,,way
 "Rue de Nidda",,,,way
 "Rue de Ponte San Nicolo",,,,way
@@ -253,15 +156,11 @@ name,source,gender,wikidata,type
 "Rue des Cordeliers",,,,way
 "Rue des Cuiretteries",,,,way
 "Rue des Cyprès",,,,way
-"Rue des Docteurs Louis et Frédéric Thiers",,,,way
 "Rue des Écoles",,,,way
-"Rue des Frères Marc et Jean-Marie Gamon",,,,way
-"Rue des Frères Montgolfier",,,,way
 "Rue des Jardins",,,,way
 "Rue des Lavandins",,,,way
 "Rue des Lilas",,,,way
 "Rue des Oullières",,,,way
-"Rue des Poitiers",,,,way
 "Rue des Porterons",,,,way
 "Rue des Religieuses Trinitaires",,,,way
 "Rue des Roses",,,,way
@@ -270,17 +169,12 @@ name,source,gender,wikidata,type
 "Rue du 19 Mars 1962",,,,way
 "Rue du 8 Mai 1945",,,,relation
 "Rue du Clocher",,,,way
-"Rue du Docteur Scheffer",,,,way
 "Rue du Fer à Cheval",,,,way
 "Rue du Four",,,,way
-"Rue du Général Bovet",,,,way
 "Rue du Lieutenant Michel Prunet",,,,way
-"Rue du Maréchal Leclerc",,,,way
-"Rue du Père Marc Castellan",,,,way
 "Rue du Pied Gai",,,,way
 "Rue du Pin Argenté",,,,way
 "Rue du Pin Douglas",,,,way
-"Rue du Professeur Georges Mouriquand",,,,way
 "Rue du Puits Neuf",,,,way
 "Rue du Rocher",,,,way
 "Rue du Temple",,,,way

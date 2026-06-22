@@ -1,10 +1,16 @@
 name,source,gender,wikidata,type
 "Rue Pierre et Marie Curie",wikidata,+,Q37463;Q7186,way
+"Chemin de Saint-Ferréol",wikidata,-,Q1408172,way
+"Impasse Saint-François",wikidata,-,Q227292,way
+"Rue Saint-François",wikidata,-,Q227292,way
+"Rue des Frères Montgolfier",wikidata,-,Q193751,way
+"Rue des Poitiers",wikidata,-,Q1720417,way
 "Allée Marcelle Rivier",wikidata,F,Q3289579,way
 "Lotissement Les Jardins d'Héloïse",wikidata,F,Q5656,way
+"Montée Saint-Catherine",wikidata,F,Q179718,way
 "Montée Sainte-Catherine",wikidata,F,Q179718,way
 "Rue Claire de Chandeneux",wikidata,F,Q2975144,way
-"Rue Hélène Bouchet",wikidata,F,Q300903,way
+"Rue Hélène Boucher",wikidata,F,Q300903,way
 "Rue Nancy Bertrand",wikidata,F,Q139588545,way
 "Rue Sainte-Euphémie",wikidata,F,Q240610,way
 "Rue Sainte-Marie",wikidata,F,Q345,way
@@ -14,5 +20,113 @@ name,source,gender,wikidata,type
 "Allée Claude Monet",wikidata,M,Q296,way
 "Allée Diderot",wikidata,M,Q448,way
 "Allée Edgar Degas",wikidata,M,Q46373,way
+"Allée Félix Rosier",wikidata,M,Q3092600,way
+"Allée Maurice Utrillo",wikidata,M,Q108301,way
+"Allée Montesquieu",wikidata,M,Q15975,way
+"Allée Vanber",wikidata,M,Q3554448,way
 "Avenue Félix Rozier",wikidata,M,Q3092600,way
+"Avenue Georges Clemenceau",wikidata,M,Q171730,way
 "Chemin Arbelet",wikidata,M,Q15078915,way
+"Chemin de Revesz-Long",wikidata,M,Q11985022,way
+"Impasse Hector Berlioz",wikidata,M,Q1151,way
+"Impasse Jules Védrines",wikidata,M,Q3188966,way
+"Impasse Pierre de Coubertin",wikidata,M,Q82984,way
+"Impasse Rochefort",wikidata,M,Q642060,way
+"Place Abbé Pierre",wikidata,M,Q306933,way
+"Place Ferdinand Marie",wikidata,M,Q60438,way
+"Place Gatien Almoric",wikidata,M,Q113382223,way
+"Place Général Digonnet",wikidata,M,Q2853869,way
+"Place du Général Perdrizet",wikidata,M,Q72825983,way
+"Place du Général de Gaulle",wikidata,M,Q2042,way
+"Quai Henri Latune",wikidata,M,Q3300775,way
+"Quai Maurice Faure",wikidata,M,Q3300775,way
+"Rue Albert Camus",wikidata,M,Q34670,way
+"Rue Alphonse Daudet",wikidata,M,Q228546,way
+"Rue André Hérold",wikidata,M,Q2847038,way
+"Rue Antoine de Pluvinel",wikidata,M,Q587280,way
+"Rue Archinard",wikidata,M,Q3168940,way
+"Rue Aristide Dumont",wikidata,M,Q11984861,way
+"Rue Charabot",wikidata,M,Q3059764,way
+"Rue Charles Péguy",wikidata,M,Q334965,way
+"Rue Chateaubriand",wikidata,M,Q49767,way
+"Rue Curnier",wikidata,M,Q16026684,way
+"Rue Driss Chraïbi",wikidata,M,Q379960,way
+"Rue Édouard Branly",wikidata,M,Q274251,way
+"Rue Émile Loubet",wikidata,M,Q169502,way
+"Rue Eugène Arnaud",wikidata,M,Q3059696,way
+"Rue Général Berlier",wikidata,M,Q3382800,way
+"Rue Général Koenig",wikidata,M,Q433116,way
+"Rue Georges Guynemer",wikidata,M,Q446435,way
+"Rue Gustave André",wikidata,M,Q3121102,way
+"Rue Gustave Eiffel",wikidata,M,Q20882,way
+"Rue Hélie de Saint-Marc",wikidata,M,Q1115664,way
+"Rue Henri Barbusse",wikidata,M,Q18404,way
+"Rue Isaac Casaubon",wikidata,M,Q436002,way
+"Rue Jacques Prévert",wikidata,M,Q165274,way
+"Rue Jean Bouin",wikidata,M,Q718290,way
+"Rue Jean Cocteau",wikidata,M,Q83158,way
+"Rue Jean Giono",wikidata,M,Q177411,way
+"Rue Jean Jaurès",wikidata,M,Q12688,way
+"Rue Jean Moulin",wikidata,M,Q632,way
+"Rue Jean XXIII",wikidata,M,Q23873,way
+"Rue Jean-Jacques Rousseau",wikidata,M,Q6527,way
+"Rue Léon Blum",wikidata,M,Q18434,way
+"Rue Louis Pasteur",wikidata,M,Q529,way
+"Rue Marcel Pagnol",wikidata,M,Q236630,way
+"Rue Maurice Long",wikidata,M,Q692029,way
+"Rue Mettetal",wikidata,M,Q16026094,way
+"Rue Molière",wikidata,M,Q687,way
+"Rue Pasteur Marc Boegner",wikidata,M,Q260458,way
+"Rue Paul Arène",wikidata,M,Q2633356,way
+"Rue Paul Goy",wikidata,M,Q3371349,way
+"Rue Rochefort",wikidata,M,Q642060,way
+"Rue Sadi Carnot",wikidata,M,Q181685,way
+"Rue Victor Hugo",wikidata,M,Q535,way
+"Rue Victor Schoelcher",wikidata,M,Q120417,way
+"Rue Vincent d'Indy",wikidata,M,Q313584,way
+"Rue Voltaire",wikidata,M,Q9068,way
+"Rue William Booth",wikidata,M,Q309882,way
+"Rue des Valernes",wikidata,M,Q19861877,way
+"Rue du Maréchal Leclerc",wikidata,M,Q312391,way
+"Rue du Professeur Georges Mouriquand",wikidata,M,Q3103240,way
+"Chemin Berthe Jouvet",config,F,,way
+"Avenue Adrien Fayolle",config,M,,way
+"Avenue Agirond",config,M,,way
+"Avenue Charles Armorin",config,M,,way
+"Avenue Henri Grand",config,M,,way
+"Avenue du Docteur Ricateau",config,M,,way
+"Chemin Saint-Vincent",config,M,,way
+"Chemin du Grand Saint-Jean",config,M,,way
+"Chemin du Petit Saint-Jean",config,M,,way
+"Esplanade Edmond Dupraz",config,M,,way
+"Impasse Adrien Fayolle",config,M,,way
+"Impasse André Reynier",config,M,,way
+"Montée Saint-Antoine",config,M,,way
+"Montée de Guillaumont",config,M,,way
+"Place Antoine Bouvier",config,M,,way
+"Place Jullien",config,M,,way
+"Place Ulysse Bouchet",config,M,,way
+"Quai André Reynier",config,M,,way
+"Rue Albert Fié",config,M,,way
+"Rue Alcide Maurin",config,M,,way
+"Rue André Mailhet",config,M,,way
+"Rue Daly",config,M,,way
+"Rue David Rigaud",config,M,,way
+"Rue Félix Perrier",config,M,,way
+"Rue Georges Bovet",config,M,,way
+"Rue Gustave Bermond",config,M,,way
+"Rue Jean Rousset",config,M,,way
+"Rue Joseph Grivel",config,M,,way
+"Rue Joseph Richard",config,M,,way
+"Rue Laurent Mognat",config,M,,way
+"Rue Léopold Bouvat",config,M,,way
+"Rue Maurice Barral",config,M,,way
+"Rue Maurice Chabrières",config,M,,way
+"Rue Paul Pons",config,M,,way
+"Rue Roch Grivel",config,M,,way
+"Rue des Docteurs Louis et Frédéric Thiers",config,M,,way
+"Rue des Frères Marc et Jean-Marie Gamon",config,M,,way
+"Rue du Colonel Odon",config,M,,way
+"Rue du Docteur Scheffer",config,M,,way
+"Rue du Général Bovet",config,M,,way
+"Rue du Père Marc Castelan",config,M,,way
