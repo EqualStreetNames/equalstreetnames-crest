@@ -29,6 +29,8 @@ name,source,gender,wikidata,type
 "Chemin de Saleine",,,,way
 "Chemin de Serre-Rond",,,,way
 "Chemin de Sylvestre",,,,way
+"Chemin de Val Fleuri",,,,way
+"Chemin de l'Aube",,,,way
 "Chemin de l'Os de Gras",,,,way
 "Chemin de la Chevalerie",,,,way
 "Chemin de la Colline",,,,way
@@ -59,6 +61,7 @@ name,source,gender,wikidata,type
 "Chemin du Haut Divajeu",,,,way
 "Chemin du Haut Mazorel",,,,way
 "Chemin du Plateau",,,,way
+"Chemin du Ruisseau",,,,way
 "Chemin du Village en Bois",,,,way
 "Chemins des Basses Sétérées",,,,way
 "Chemins des Moyennes Sétérées",,,,way
@@ -66,7 +69,9 @@ name,source,gender,wikidata,type
 "Escalier des Cordeliers",,,,way
 "Impasse Chabrière",,,,way
 "Impasse Martelle",,,,way
+"Impasse Montaigne",,,,way
 "Impasse de Berend",,,,way
+"Impasse de Carcavel",,,,way
 "Impasse de Peyrambert",,,,way
 "Impasse de Pierrefeu",,,,way
 "Impasse de la Chevalerie",,,,way
@@ -75,12 +80,21 @@ name,source,gender,wikidata,type
 "Impasse des Aubépines",,,,way
 "Impasse des Auberts",,,,way
 "Impasse des Cèdres",,,,way
+"Impasse des Chardonnerets",,,,way
+"Impasse des Cordeliers",,,,way
+"Impasse des Églantiers",,,,way
+"Impasse des Mésanges",,,,way
 "Impasse des Mines",,,,way
 "Impasse des Noisetiers",,,,way
 "Impasse des Peupliers",,,,way
 "Impasse des Poitiers",,,,way
+"Impasse des Rouge-Gorges",,,,way
 "Impasse des Sétérées",,,,way
+"Impasse des Vieilles Prisons",,,,way
 "Impasse du Puits Neuf",,,,way
+"Impasse du Silo",,,,way
+"Impasse du Square",,,,way
+"La Beaumette",,,,way
 "La Colline",,,,way
 "La Vélo Drôme",,,,way
 "Le Clos Saint-Antoine",,,,way
@@ -94,6 +108,7 @@ name,source,gender,wikidata,type
 "Montée des Gardettes",,,,way
 "Montée des Pénitents",,,,way
 "Place Docteur Rozier",,,,way
+"Place Halle aux Blés",,,,way
 "Place de la Liberté",,,,way
 "Place des Moulins",,,,way
 "Place des Tilleuls",,,,way
@@ -104,6 +119,7 @@ name,source,gender,wikidata,type
 "Quai Pied Gai",,,,way
 "Quai Soubeyran",,,,way
 "Quai de Verdun",,,,way
+"Quai de la Prairie",,,,way
 "Quai des marronniers",,,,way
 "Quartier des Taillas",,,,way
 "Rostagnon Sud",,,,way
@@ -124,13 +140,17 @@ name,source,gender,wikidata,type
 "Rue Côte Chaude",,,,way
 "Rue Courre Commère",,,,way
 "Rue Crévecol",,,,way
+"Rue Ferronnerie",,,,way
 "Rue Grenette",,,,way
+"Rue Henri Brunel",,,,way
 "Rue Martelle",,,,way
 "Rue Neuve Moutiers",,,,way
 "Rue Paramente",,,,way
 "Rue Peyrière",,,,way
+"Rue Peyrollerie",,,,way
 "Rue Porte-Aiguière",,,,way
 "Rue Roderie",,,,way
+"Rue Trou du Loup",,,,way
 "Rue de Cromer",,,,way
 "Rue de Nidda",,,,way
 "Rue de Ponte San Nicolo",,,,way
@@ -142,6 +162,8 @@ name,source,gender,wikidata,type
 "Rue de la Calade",,,,way
 "Rue de la Carrière",,,,way
 "Rue de la Glacière",,,,way
+"Rue de la Nativité",,,,way
+"Rue de la Pierre",,,,way
 "Rue de la République",,,,way
 "Rue de la Tour",,,,way
 "Rue de la Trinité",,,,way

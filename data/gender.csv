@@ -30,10 +30,14 @@ name,source,gender,wikidata,type
 "Avenue Jean Rabot",wikidata,M,Q109037516,way
 "Chemin Arbelet",wikidata,M,Q15078915,way
 "Chemin de Revesz-Long",wikidata,M,Q11985022,way
+"Impasse Arbelet",wikidata,M,Q15078915,way
+"Impasse Digonnet",wikidata,M,Q2853869,way
 "Impasse Hector Berlioz",wikidata,M,Q1151,way
 "Impasse Jules Védrines",wikidata,M,Q3188966,way
 "Impasse Pierre de Coubertin",wikidata,M,Q82984,way
 "Impasse Rochefort",wikidata,M,Q642060,way
+"Impasse Ronsard",wikidata,M,Q49752,way
+"Impasse du Bellay",wikidata,M,Q18420,way
 "Place Abbé Pierre",wikidata,M,Q306933,way
 "Place Ferdinand Marie",wikidata,M,Q60438,way
 "Place Gatien Almoric",wikidata,M,Q113382223,way
@@ -56,6 +60,7 @@ name,source,gender,wikidata,type
 "Rue Édouard Branly",wikidata,M,Q274251,way
 "Rue Émile Loubet",wikidata,M,Q169502,way
 "Rue Eugène Arnaud",wikidata,M,Q3059696,way
+"Rue François Villon",wikidata,M,Q849,way
 "Rue Général Berlier",wikidata,M,Q3382800,way
 "Rue Général Koenig",wikidata,M,Q433116,way
 "Rue Georges Guynemer",wikidata,M,Q446435,way
@@ -71,7 +76,9 @@ name,source,gender,wikidata,type
 "Rue Jean Jaurès",wikidata,M,Q12688,way
 "Rue Jean Moulin",wikidata,M,Q632,way
 "Rue Jean XXIII",wikidata,M,Q23873,way
+"Rue Jean-Henri Fabre",wikidata,M,Q313348,way
 "Rue Jean-Jacques Rousseau",wikidata,M,Q6527,way
+"Rue Jules Ladoumègue",wikidata,M,Q710790,way
 "Rue Léon Blum",wikidata,M,Q18434,way
 "Rue Louis Pasteur",wikidata,M,Q529,way
 "Rue Marcel Pagnol",wikidata,M,Q236630,way
@@ -105,6 +112,7 @@ name,source,gender,wikidata,type
 "Impasse André Reynier",config,M,,way
 "Montée Saint-Antoine",config,M,,way
 "Montée de Guillaumont",config,M,,way
+"Place Albert Argod",config,M,,way
 "Place Antoine Bouvier",config,M,,way
 "Place Jullien",config,M,,way
 "Place Ulysse Bouchet",config,M,,way
@@ -120,11 +128,13 @@ name,source,gender,wikidata,type
 "Rue Jean Rousset",config,M,,way
 "Rue Joseph Grivel",config,M,,way
 "Rue Joseph Richard",config,M,,way
+"Rue Justin Brun Durand",config,M,,way
 "Rue Laurent Mognat",config,M,,way
 "Rue Léopold Bouvat",config,M,,way
 "Rue Maurice Barral",config,M,,way
 "Rue Maurice Chabrières",config,M,,way
 "Rue Paul Pons",config,M,,way
+"Rue Peysson",config,M,,way
 "Rue Roch Grivel",config,M,,way
 "Rue des 3 Capitaines",config,M,,way
 "Rue des Docteurs Louis et Frédéric Thiers",config,M,,way
