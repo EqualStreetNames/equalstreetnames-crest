@@ -5,6 +5,7 @@ name,source,gender,wikidata,type
 "Rue Saint-François",wikidata,-,Q227292,way
 "Rue des Frères Montgolfier",wikidata,-,Q193751,way
 "Rue des Poitiers",wikidata,-,Q1720417,way
+"Rue des Religieuses Trinitaires",wikidata,-,Q917518,way
 "Allée Marcelle Rivier",wikidata,F,Q3289579,way
 "Lotissement Les Jardins d'Héloïse",wikidata,F,Q5656,way
 "Montée Saint-Catherine",wikidata,F,Q179718,way
@@ -26,6 +27,7 @@ name,source,gender,wikidata,type
 "Allée Vanber",wikidata,M,Q3554448,way
 "Avenue Félix Rozier",wikidata,M,Q3092600,way
 "Avenue Georges Clemenceau",wikidata,M,Q171730,way
+"Avenue Jean Rabot",wikidata,M,Q109037516,way
 "Chemin Arbelet",wikidata,M,Q15078915,way
 "Chemin de Revesz-Long",wikidata,M,Q11985022,way
 "Impasse Hector Berlioz",wikidata,M,Q1151,way
