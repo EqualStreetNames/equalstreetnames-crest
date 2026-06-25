@@ -54,6 +54,8 @@ return [
             '8021705' => 'M', // Rue David Rigaud
             '228908526' => 'M', // Rue des Docteurs Louis et Frédéric Thiers
             '116517676' => 'M', // Rue des Frères Marc et Jean Marie Gamon
+            '653174370' => 'M', // Rue des trois capitaines
+            '1172466431' => 'M', // Rue des trois capitaines
             '131472411' => 'M', // Rue Docteur Alcide Maurin
             '36398105' => 'M', // Rue Docteur Scheffer
             '865696089' => 'M', // Rue Driss Chraïbi
@@ -93,7 +95,8 @@ return [
             '37544778' => 'M', // Rue Laurent Mognat
             '138392706' => 'M', // Rue Léon Blum
             '260925090' => 'M', // Rue Leopold Bouvat
-            '434751957' => 'M', // Rue Lieutenant Michel Prunet
+            '1172466442' => 'M', // Rue Lieutenant Michel Prunet
+            '78260437' => 'M', // Rue Lieutenant Michel Prunet
             '308144844' => 'M', // Rue Louis Pasteur
             '36398110' => 'M', // Rue Marcel Pagnol
             '1446514175' => 'M', // Rue Maurice Barral
