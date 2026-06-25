@@ -30,6 +30,9 @@ return [
             '1113439088' => 'M', // Avenue Charles Armorin
             '11826173' => 'M', // Avenue du Docteur Andre Ricateau
             '8020527' => 'M', // Avenue Henri Grand
+            '1117402131' => 'M', // Avenue Henri Grand
+            '1460207053' => 'M', // Avenue Henri Grand
+            '1117402130' => 'M', // Avenue Henri Grand
             '78260451' => 'M', // Chemin du Grand Saint Jean
             '228908519' => 'M', // Chemin du Petit Saint Jean
             '191214277' => 'M', // Chemin Saint Vincent
