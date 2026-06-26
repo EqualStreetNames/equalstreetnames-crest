@@ -34,6 +34,7 @@ name,source,gender,wikidata,type
 "Impasse Arbelet",wikidata,M,Q15078915,way
 "Impasse Digonnet",wikidata,M,Q2853869,way
 "Impasse Hector Berlioz",wikidata,M,Q1151,way
+"Impasse Henri Barbusse",wikidata,M,Q18404,way
 "Impasse Jules Védrines",wikidata,M,Q3188966,way
 "Impasse Pierre de Coubertin",wikidata,M,Q82984,way
 "Impasse Rochefort",wikidata,M,Q642060,way
@@ -96,7 +97,6 @@ name,source,gender,wikidata,type
 "Rue Vincent d'Indy",wikidata,M,Q313584,way
 "Rue Voltaire",wikidata,M,Q9068,way
 "Rue William Booth",wikidata,M,Q309882,way
-"Rue des Valernes",wikidata,M,Q19861877,way
 "Rue du Maréchal Leclerc",wikidata,M,Q312391,way
 "Rue du Professeur Georges Mouriquand",wikidata,M,Q3103240,way
 "Chemin Berthe Jouvet",config,F,,way
