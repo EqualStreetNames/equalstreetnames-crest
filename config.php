@@ -27,14 +27,22 @@ return [
 
             '308144848' => 'M', // Avenue Adrien Fayolle
             '324055896' => 'M', // Avenue Agirond
+            '8020536' => 'M', // Avenue Agirond
             '1113439088' => 'M', // Avenue Charles Armorin
+            '1117402132' => 'M', // Avenue Charles Armorin
+            '1117402134' => 'M', // Avenue Charles Armorin
+            '865696065' => 'M', // Avenue Charles Armorin
             '11826173' => 'M', // Avenue du Docteur Andre Ricateau
             '8020527' => 'M', // Avenue Henri Grand
             '1117402131' => 'M', // Avenue Henri Grand
             '1460207053' => 'M', // Avenue Henri Grand
             '1117402130' => 'M', // Avenue Henri Grand
             '78260451' => 'M', // Chemin du Grand Saint Jean
+            '878639770' => 'M', // Chemin du Grand Saint Jean
+            '878639769' => 'M', // Chemin du Grand Saint Jean
             '228908519' => 'M', // Chemin du Petit Saint Jean
+            '228908520' => 'M', // Chemin du Petit Saint Jean
+            '211466700' => 'M', // Chemin du Petit Saint Jean
             '191214277' => 'M', // Chemin Saint Vincent
             '1531340470' => 'M', // Esplanade Edmond Dupraz
             '228979754' => 'M', // Impasse Adrien Fayolle
@@ -47,6 +55,8 @@ return [
             '333837545' => 'M', // Place Jullien
             '36398077' => 'M', // Place Ulysse Bouchet
             '1456208578' => 'M', // Quai André Reynier
+            '116517364' => 'M', // Quai André Reynier
+            '8021140' => 'M', // Quai André Reynier
             '11826176' => 'M', // Quai Henri Latune
             '78260440' => 'M', // Rue Albert Fié
             '308144833' => 'M', // Rue André Mailhet
